@@ -1,0 +1,662 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;   
+}
+.div1{
+   background-color: #2e2d2d;
+   color: rgb(157, 153, 153);
+   font-weight: normal;
+   padding-top: 10px;
+   padding-bottom: 15px;
+ 
+}
+.div2{
+
+    float: right;
+    
+}
+.login a{
+    color: rgb(157, 153, 153);
+    padding-right: 10px;
+    text-decoration: none;
+}
+.register a{
+    color: rgb(157, 153, 153);
+    padding-left: 10px;
+    text-decoration: none;
+}
+.login a:hover{
+    color: orange;
+}
+.register a:hover{
+    color: orange;
+}
+.div3 h3{
+    color: black;
+    margin-top: -50px;
+    margin-left: 50px;
+    font-size: 20px;
+    font-weight: bolder;
+}
+.div3 p{
+    color: rgb(101, 100, 100);
+    margin-top: -10px;
+    margin-left: 50px;
+    font-size: 14px;
+    font-weight: lighter;
+}
+.sec{
+    margin-top: 30px;
+    position: sticky;
+    top: 0;
+    background-color: white;
+    z-index: 2;
+}
+.div4 a{
+       color: black;
+       margin-right: 40px;
+       
+}
+.div4{
+    float: right;
+   
+}
+.div4 a:hover{
+    color: rgb(255, 166, 0);
+}
+.div5{
+margin-bottom: 100px;
+margin-left: 90px;
+} 
+.div5 h3{
+    color:white;
+    padding-left: 150px;
+    font-size: 50px;
+    font-weight: bolder;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+.div5 h2{
+    color:white;
+   padding-left: 0px;
+    font-size: 54px;
+    font-weight: bolder;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+.div5 h1{
+    padding-left: 340px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 56px;
+    font-weight: bold;
+}
+.div5 h1 span{
+    color: #ffa703;
+    font-weight: lighter;
+    font-weight: bold;
+}
+.div5 p{
+    font-family: cursive;
+}
+
+.div6{
+    margin-bottom: 200px;
+}
+.div6 h3{
+    font-size: 30px;
+}
+.div6 h3 span{
+    color: #ffaa16;
+    font-weight: bolder;
+}
+.div6 p{
+   font-family: cursive;
+}
+.div6 button{
+    border-radius: 10px;
+    width: 150px;
+    height: 40px;
+    background-color: orange;
+}
+.div6 button a{
+    text-decoration: none;
+    font-size: 18px;
+    align-items: center;
+    color: black;
+}
+.div6 button:hover{
+    background-color: white;
+}
+.div7{
+    margin-top: 100px;
+}
+.div7 h3{
+    text-align: center;
+    font-size: 36px;
+    font-weight: bolder;
+}
+.div7 h3 span{
+    color: orange;
+}
+.div7 p{
+    text-align: center;
+    font-size: 16px;
+    color: #868282;
+}
+.div8{
+    margin-top: 70px;
+}
+.div8 img{
+    width: 90%;
+}
+
+.ps{
+    position: relative; 
+bottom: 100px;
+height: 50px;
+width: 70%;
+background-color: rgb(57, 55, 55);
+color: white;
+border-right: 2px solid orange ;
+
+}
+.ps h3{
+    font-size: 16px;
+   padding-top: 15px;
+   padding-right: 80px;
+   
+
+}
+.div9{
+    background-color: #383636;
+    width: 55%;
+    height: 460px;
+    margin-top: -460px;
+    margin-left: -11px;
+}
+.imgp{
+    width: 100%;
+    
+}
+
+.div9{
+    padding-top: 100px;
+    padding-left: 70px;
+    height: 513px;
+    margin-top: -513px;
+    margin-left: 1px;
+
+}
+.div9 h3{
+    color: white;
+}
+.div9 h3 span{
+    color: orange;
+}
+.div9 p{
+    color: rgb(128, 128, 127);
+    padding-top: 20px;
+}
+.div9 a{
+    text-decoration: none;
+    color: orange;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 12px;
+    
+}
+.div9 a:hover{
+    color: white;
+}
+
+.div9 ul{
+    padding-top: 40px;
+   margin-left: -31px;
+}
+.div10{
+    margin-top: 100px;
+}
+.btmn1{
+    float: right;
+    margin-right: 90px;
+    width: 120px;
+    height: 40px;
+    background-color: white;
+    border: 1px solid rgba(198, 196, 196, 0.894);
+    margin-top: 10px;
+}
+.btmn1 a{
+    color: black;
+    text-decoration: none;
+}
+.btmn1:hover{
+    background-color: orange;
+}
+.div10 h3 span{
+     color: orange;
+}
+.div10 p{
+    color: #868282;
+}
+.div11{
+    margin-top: 50px;
+}
+.div12 span{
+    font-size: 12px;
+    color: #868282;
+    padding-left: 5px;
+    padding-right: 15px;
+    font-weight: 400;
+}
+.div12 i{
+    font-size: 12px;
+}
+.div12 p{
+    padding-top: 20px;
+    font-weight: 400;
+}
+.div12 h4{
+     font-size: 22px;
+     font-weight: bolder;
+     font-family: 'Roboto Slab', serif;
+}
+.div12{
+    margin-left: 40px;
+    margin-top: 30px;
+}
+.div13{
+    height: 150px;
+   
+    margin-left: 50px;
+    padding-left: 70px;
+    padding-top: 50px;
+    border-left: 1px solid rgba(186, 184, 184, 0.265);
+}
+.div13 a{
+    text-decoration: none;
+    color: black;
+}
+.div13 a:hover{
+    color: orange;
+}
+.div14{
+    background-image: url(images/searchcourses-bg.jpg);
+    width: 100%;
+    
+    margin-top: 100px;
+    
+    
+}
+.div15{
+    background-color: rgba(255, 199, 34, 0.94);
+    width: 100%;
+    padding-top: 80px;
+ 
+    
+}
+.divh{
+    width: 40%;
+}
+.div15 h4{
+    text-align: center;
+    color: white;
+    line-height: 35px;
+    font-size: 30px;
+}
+.div16{
+    margin-top: 80px;
+}
+.div16 button{
+    width: 200px;
+}
+.div16 button:hover{
+    background-color: #3357f6;
+}
+.div17 span{
+    color: black;
+    font-size: 20px;
+    padding-left: 40px;
+  margin-top: -30px;
+   text-align: left;
+   display: inline-block;
+   font-weight: normal;
+}
+.div17 i{
+    color: black;
+    font-size: 20px;
+}
+.div17{
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+.div18{
+    margin-top: 100px;
+}
+.div18 h3{
+     text-align: center;
+     color: #222;
+    font-size: 32px;
+    line-height: 28px;
+    font-family: 'Roboto Slab', serif;
+    font-weight: 700;
+    }
+.div18 h4 span{
+    color: #ffc722;
+}
+.div18 p{
+    text-align: center;
+    color: #777;
+    font-size: 15px;
+    letter-spacing: 0.30px;
+    line-height: 26px;
+    font-family: 'Open Sans', sans-serif;
+    padding-top: 10px;
+}
+.div19{
+    margin-top: 70px;
+    
+}
+.div20{
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    width: 85%;
+    height: 80px;
+    position: relative;
+    margin-top: -60px;
+   
+}
+.div20 h5{
+    color: #ffc722;
+    font-size: 14px;
+    padding-top: 20px;
+}
+.div20 h6{
+    color: #555454;
+    font-size: 14px;
+}
+.div20 img{
+    padding-bottom: 20px;
+}
+.div21{
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    width: 16%;
+    height: 50px;
+    position: relative;
+    margin-top: -50px;
+    float: right;
+   
+}
+.div21 i{
+    font-size: 20px;
+    padding-top: 20px;
+ 
+}
+.div21 img{
+    padding-top: 15px;
+}
+.div22{
+    padding-top: 10px;
+    padding-left: 70px;
+}
+.div22 a{
+    text-decoration: none;
+    color: rgb(56, 55, 55);
+cursor: pointer;
+}
+.div22 a:hover{
+    color: #ddc301;
+}
+.div18 button{
+   margin-top: 80px;
+   margin-left: 650px;
+   width: 150px;
+   height: 40px;
+   background-color: white;
+   border:2px solid #ccccccd2;
+}
+.div18 button a{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+}
+.div18 button:hover{
+    
+    background-color: rgb(141, 159, 250);
+}
+.div23{
+    background-color: black;
+    margin-top: 100px;
+    padding-top: 80px;
+}
+.div23 .div3 h3{
+   color: white;
+ 
+}
+.div23 .div3 p{
+    color: rgb(156, 153, 153);
+ }
+ .div23 i{
+    color: white;
+    padding-left: 30px;
+    padding-right: 20px;
+   
+    
+ }
+
+.div25{
+    width: 40px;
+    border-top: 2px solid orange;
+margin-top: 30px;
+   
+}
+.div24{
+    padding-left: 50px;
+}
+.div24 h3{
+    color: white;
+    
+}
+.div26 {
+    background-color: black;
+}
+.div27 p{
+    color: #7c7a7a;
+   margin-top: -80px;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 26px;
+
+    
+}
+.div28 h5{
+    color: white;
+}
+.div29 i{
+    color: #7c7a7a;
+    padding-right: 10px;
+    
+}
+.div29 span{
+    color: #7c7a7a;
+    padding-right: 10px;
+    
+}
+.div29 p{
+    color: #777;
+}
+.div29 a{
+    color: #ddc301;
+    text-decoration: none;
+    
+}
+.div29 a:hover{
+    color: white;
+}
+.div30{
+    width: 100%;
+    border-top: 1px solid rgb(63, 63, 63);
+    margin-top: 100px;
+}
+.div35{
+    padding-left: 50px;
+}
+.div36{
+    margin-top: 30px;
+}
+.div31 p{
+    text-align: center;
+    color: #6a6868;
+}
+
+#input{
+    margin-top: 80px;
+}
+
+
+
+
+
+@media screen and (max-width: 768px) {
+    .div18 button {
+       margin-left: 20px;
+    }
+    .div1 {
+        
+        text-align: center;
+    }
+    .div1 .div2{
+        text-align: center;
+        float: none;
+    }
+    .div4{
+        float: none;
+        color: black;
+    }
+    .sec{
+        background-color: #e89696;
+        margin-top: 0;
+        position: unset; 
+        z-index: 0;
+        
+        
+    }
+    .div7{
+        margin-top: 0;
+    }
+    .div8{
+        margin-top: 0;
+    }
+    .div7 .div8 img{
+        width: 100%;
+    }
+
+    .div9 {
+        background-color: #383636;
+        width: 100%;
+        height: auto;
+        padding-left: 20px;
+        margin-top: 0;
+        margin-left: 0;
+    }
+    .btmn1 {
+        float: none;
+        
+    }
+    .div27 p{
+        margin-top: 0;
+    }
+    .div24 {
+        padding-left: 0;
+        margin-top: 40px;
+    }
+    #input{
+        margin-top: 10px;
+    }
+    .div29 a{
+       display: block;
+       text-align: center;
+       padding-top: 20px;
+       
+    }
+    .div35 {
+        padding-left: 0;
+        margin-top: 50px;
+    }
+   
+    
+
+
+}
+
+
+
+
+
+
+.comp{
+  
+    font-weight: bolder;
+    font-family:"Lucida Handwriting";
+    font-size: 32px;
+    color: #ff0000;
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 20px;
+   
+    
+}
+.div80{
+    text-align: center;
+}
+.div70{
+    display: flex;
+    justify-content: center;
+    
+}
+.div70 h6{
+    padding: 10px;
+    color: #220aff;
+    font-weight: bolder;
+
+}
+.div71 h2{
+  color: rgb(255, 0, 0);
+}
+.div71 li{
+    color: #777;
+}
+.div72 a{
+    text-decoration:none ;
+}
+
+
+
+.divabout1{
+    text-align: center;
+    margin-top: 40px;
+    padding-top: 10px;
+}
+.divabout1 h1{
+    color: rgb(0, 0, 0);
+    padding-bottom: 20px;
+}
+.divabout1 h1 span{
+    color: rgb(255, 42, 0);
+}
+.divabout1 h2{
+    color: rgb(17, 0, 255);
+    
+}
+.divabout2{
+    padding-top: 20px;
+}
+.divabout2 p{
+    padding-top: 10px;
+    color: rgba(114, 114, 114, 0.727);
+  
+}
+
+
+

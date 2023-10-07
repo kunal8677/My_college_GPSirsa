@@ -1,0 +1,111 @@
+
+.form{
+    width: 280px;
+    height: 450px;
+background-color: rgba(0, 0, 0, 0.711);
+ 
+    border-radius: 10px;
+    padding: 25px;
+    
+}
+.form h2{
+    color:orange;
+    width: 220px;
+    font-size: 22px;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-family: sans-serif;
+    text-align: center;
+    margin: 2px;
+    padding: 8px;
+    font-weight: bolder;
+}
+.form input{
+    width: 240px;
+    height: 35px;
+    background-color: transparent;
+    border-bottom: 1px solid orange;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    margin-top: 30px;
+    color: white;
+    font-size: 15px;
+    letter-spacing: 1px ;
+    font-family: sans-serif;
+    outline: none;
+}
+::placeholder{
+    color:white;
+    font-size: 15px;
+    font-family: Arial;
+}
+.login{
+    text-align: center;
+    background-color: orange;
+    width: 230px;
+    height: 40px;
+    margin-top: 30px;
+font-size: 20px;
+border-radius: 10px;
+ cursor: pointer;
+ outline: none;
+}
+.login a{
+    text-decoration: none;
+    font-family: Arial;
+    font-weight: bold;
+    color: black;
+}
+.login a:hover{
+    color: orange;
+}
+.login:hover{
+    background-color: white;
+}
+.account{
+    color: white;
+    text-align: center;
+    font-size: 18px;
+    margin-top: 20px;
+}
+.sign{
+    color: orange;
+   margin-left: 60px;
+   margin-top: 5px;
+   text-decoration: none;
+    
+}
+.sign:hover{
+    color: white;
+}
+.login2{
+    color: white;
+    text-align: center;
+    margin-top: 15px;
+    font-size: 16px;
+}
+.icon2{
+    color: white;
+    margin: 20px;
+    font-size: 18px;
+    margin-left: 10px;
+   padding-left: 10px;
+}
+.icon2 i{
+    padding-left: 15px;
+    padding-top: 5px;
+    color: white;
+    text-align: center;
+    padding-bottom: 10px;
+}
+.divl{
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+}
+
+
+   
+ 
